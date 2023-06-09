@@ -28,7 +28,7 @@ module.exports = {
       gasPrice: 225000000000,
       chainId: 43113,
       accounts: [
-        "21af664b5fa74ba3c9a3622d2c9dfe63aaa860872d3d2eec2a90a820b6f1372f",
+        //removed because public repository
       ],
     },
     mainnet: {
@@ -36,11 +36,11 @@ module.exports = {
       gasPrice: 225000000000,
       chainId: 43114,
       accounts: [
-        "21af664b5fa74ba3c9a3622d2c9dfe63aaa860872d3d2eec2a90a820b6f1372f",
+        //removed because public repository
       ],
     },
   },
   etherscan: {
-    apiKey: "T21PG3BQFTJ53HZANFZ85FFAZXM75G8TBD",
+    //removed because public repository
   },
 };
